@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	// Variables to store user input and a pointer.
+	// Variable to store user input.
 	var input int
 
 	// Declare a random array.
